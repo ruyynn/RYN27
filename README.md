@@ -1,14 +1,20 @@
 # RYN27 — Ultimate Information Gathering Tool
-
+ 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Version](https://img.shields.io/badge/Version-1.0.0-CE1126?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ruyynn/RYN27/releases)
 [![License](https://img.shields.io/badge/License-MIT-2ecc71?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/ruyynn/RYN27?style=for-the-badge&logo=github&logoColor=white&color=f1c40f)](https://github.com/ruyynn/RYN27/stargazers)
 [![Issues](https://img.shields.io/github/issues/ruyynn/RYN27?style=for-the-badge&logo=githubactions&logoColor=white&color=e74c3c)](https://github.com/ruyynn/RYN27/issues)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS%20%7C%20Termux-555?style=for-the-badge&logo=linux&logoColor=white)]()
-
+ 
 > **RYN27** adalah alat *information gathering* berbasis CLI yang menggabungkan WHOIS, DNS, port scanning, IP geolocation, reverse lookup, dan technology detection dalam satu antarmuka terminal yang bersih dan premium. Dibuat untuk security researcher, bug bounty hunter, CTF player, dan sysadmin yang butuh tool recon yang cepat, ringan, dan tidak ribet.
-
+ 
+---
+ 
+## 📸 Screenshot
+ 
+![RYN27 Preview](assets/preview.png)
+ 
 ---
 
 ## ✨ Fitur
