@@ -13,8 +13,8 @@
  
 ## 📸 Screenshot
 <p>
-  <img src="assets/demo.svg" width="49%"/>
-  <img src="assets/preview.png" width="49%"/>
+  <img src="assets/demo.svg" width="60%"/>
+  <img src="assets/preview.png" width="60%"/>
 </p>
 
 ---
