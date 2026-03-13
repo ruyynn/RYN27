@@ -12,9 +12,11 @@
 ---
  
 ## 📸 Screenshot
- 
-![RYN27 Preview](assets/preview.png)
- 
+<p>
+  <img src="assets/demo.svg" width="49%"/>
+  <img src="assets/preview.png" width="49%"/>
+</p>
+
 ---
 
 ## ✨ Fitur
