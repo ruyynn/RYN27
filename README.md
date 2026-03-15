@@ -137,11 +137,15 @@ Got questions, ideas, collaboration offers, or just want to talk security? Reach
 If RYN27 has ever helped your work or learning, consider supporting its development:
 
 <a href="https://saweria.co/Ruyynn">
-  <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" width="180"/>
+  <img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" width="110"/>
 </a>
+
+<a href="https://ko-fi.com/H2H11W13IP" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="180" alt="Ko-fi">
+  </a>
 
 > Every bit of support, no matter how small, means a lot and keeps this project moving forward. Thank you! 🙏
 
 ---
 
-*Coded with ❤️ by [RYN27](https://github.com/ruyynn) — from Indonesia 🇮🇩 for the global cybersecurity community*
+*Coded with ❤️ by [Ruyynn](https://github.com/ruyynn) — from Indonesia 🇮🇩 for the global cybersecurity community*
