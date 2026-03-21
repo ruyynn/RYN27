@@ -41,7 +41,7 @@ The tool was designed to be **fast to launch and easy to use** — type a domain
 | **UI** | [Rich](https://github.com/Textualize/rich) — panels, tables, progress bars, truecolor themes |
 | **Platform** | Linux · macOS · Windows · Android (Termux) |
 | **Dependencies** | Auto-installed on first run |
-| **License** | MIT — free forever |
+| **License** | MIT |
  
 ---
 
