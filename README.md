@@ -352,7 +352,7 @@ Every bit of support keeps this free and maintained. 🙏
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/image?repos=ruyynn/RYN27&type=date)](https://www.star-history.com/#ruyynn/ryn27&Date)
+[![Star History Chart](https://api.star-history.com/image?repos=ruyynn/ryn27&type=date&legend=bottom-right)](https://www.star-history.com/?repos=ruyynn%2Fryn27&type=date&legend=bottom-right)
 
 </div>
 
