@@ -1,5 +1,9 @@
 <div align="center">
 
+  <img src="https://raw.githubusercontent.com/ruyynn/RYN27/main/assets/ryn27_logo.png" width="720" alt="ryn27_logo.png">
+  
+
+
 <!-- Typing SVG — Tool Name -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1500&color=CE1126&center=true&vCenter=true&width=700&height=80&lines=RYN27" alt="RYN27"/>
 
